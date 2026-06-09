@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # START YOAST BLOCK
 # ---------------------------
 User-agent: *
@@ -5,4 +6,13 @@ Disallow:
 
 Sitemap: http://clarrahsbakery.local/sitemap_index.xml
 # ---------------------------
+=======
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: http://clarrahsbakery.local/sitemap_index.xml
+# ---------------------------
+>>>>>>> Stashed changes
 # END YOAST BLOCK
